@@ -1,0 +1,9 @@
+Package: com.abdullah.twitterauto4k
+Name: TwitterAuto4K
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Auto load high quality for twitter images
+Maintainer: Abdullah
+Author: Abdullah
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
